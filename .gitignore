@@ -1,0 +1,34 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vaadin
+node_modules/
+package-lock.json
+package.json
+webpack.config.js
+webpack.generated.js
+tsconfig.json
+types.d.ts
+pnpm-lock.yaml
+vite.config.ts
+vite.generated.ts
