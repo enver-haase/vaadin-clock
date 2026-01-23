@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.vaadin.addons.clock</groupId>
-    <artifactId>vaadin-clock</artifactId>
+    <artifactId>analog-clock</artifactId>
     <version>1.0.0</version>
-    <name>Vaadin Clock</name>
+    <name>Analog Clock</name>
     <description>An analog clock component for Vaadin with Amiga Workbench 1.2 aesthetic.
         Supports running/stopped modes, user adjustment via dragging hands or keyboard,
         min/max constraints, step intervals, and Lumo/Aura theme variants.</description>
