@@ -27,7 +27,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package com.infraleap.vaadin.addon.clock;
+package org.vaadin.addons.clock;
 
 import java.time.Duration;
 import java.time.LocalTime;
