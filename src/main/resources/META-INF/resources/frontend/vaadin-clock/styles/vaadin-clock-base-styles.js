@@ -26,7 +26,7 @@ export const clockStyles = css`
 
     display: inline-block;
     width: var(--vaadin-clock-size);
-    height: auto;
+    height: var(--vaadin-clock-size);
   }
 
   :host([hidden]) {
@@ -53,8 +53,8 @@ export const clockStyles = css`
   }
 
   .clock-container {
-    width: var(--vaadin-clock-size);
-    height: var(--vaadin-clock-size);
+    width: 100%;
+    height: 100%;
     background: var(--vaadin-clock-background);
     /* Amiga-style beveled border */
     border: 2px solid var(--vaadin-clock-border-color);
